@@ -71,7 +71,7 @@ output/
 results/
 *.png
 *.jpg
-*.pdf
+#*.pdf
 !README_images/*.png
 
 # Environment variables
