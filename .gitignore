@@ -38,9 +38,9 @@ env/
 *~
 
 # Data files (large datasets should not be committed)
-*.csv
-*.xlsx
-*.xls
+#*.csv
+#*.xlsx
+#*.xls
 *.json
 *.parquet
 *.h5
